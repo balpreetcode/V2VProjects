@@ -1,7 +1,5 @@
 ## audio preloaded
 ## handling subsequent calls , also during transcription but after a gap of 10- 12 seconds.
-## integrated whatsapp automation
-
 ## Lowest latency, no mongo db connection, streamed answer is sent to faiss
 import os
 import uuid
