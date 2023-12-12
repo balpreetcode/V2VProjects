@@ -3,4 +3,8 @@ numpy
 faiss-cpu
 scikit-learn
 python-dotenv
-openai
+openai==0.28.0
+pyautogui
+websockets
+opencv-python
+PyScreeze==0.1.29
